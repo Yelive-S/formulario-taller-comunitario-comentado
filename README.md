@@ -107,5 +107,4 @@ Este proyecto está orientado a estudiantes que están aprendiendo desarrollo we
 ---
 
 ## Autor
-
-Proyecto educativo de desarrollo web frontend.
+Yesica velez
